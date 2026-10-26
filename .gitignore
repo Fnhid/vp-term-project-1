@@ -1,4 +1,4 @@
-# ===== Visual Studio 캐시 / 사용자별 설정 =====
+# ===== Visual Studio cache / per-user settings =====
 .vs/
 *.user
 *.suo
@@ -11,17 +11,17 @@
 ipch/
 enc_temp_folder/
 
-# ===== 빌드 결과 폴더 =====
+# ===== Build output folders =====
 [Dd]ebug/
 [Rr]elease/
 [Uu]nicode [Dd]ebug/
 [Uu]nicode [Rr]elease/
 x64/
 Win32/
-# CxImage 라이브러리 빌드 결과 (각자 v142로 빌드)
+# CxImage library build outputs (each member builds them locally with v142)
 cximage/x86/
 
-# ===== 빌드 중간 산출물 =====
+# ===== Intermediate build files =====
 *.obj
 *.o
 *.pch
@@ -40,7 +40,7 @@ cximage/x86/
 *.exe
 *.dll
 
-# ===== 기타 도구 =====
+# ===== Other editors =====
 .vscode/
 .idea/
 
@@ -50,6 +50,6 @@ cximage/x86/
 Thumbs.db
 Desktop.ini
 
-# ===== Office (보고서 작성 중 생기는 잠금/임시 파일) =====
+# ===== Office (lock/temp files created while editing the report) =====
 ~$*
 *.tmp

@@ -1,2 +1,2 @@
-# 템플릿 파일이 CP949 / UTF-16 / CRLF가 섞여 있어서 줄바꿈 자동 변환을 끔 (바이트 그대로 보존)
+# Template sources mix CP949 / UTF-16 / CRLF, so disable line-ending conversion (keep bytes as-is)
 * -text
