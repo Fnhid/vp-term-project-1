@@ -1,0 +1,20 @@
+# Visual Studio 캐시
+.vs/
+*.user
+*.aps
+*.sdf
+*.ncb
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+
+# 빌드 결과물
+Debug/
+Release/
+x64/
+Win32/
+cximage/x86/
+
+# macOS
+.DS_Store
